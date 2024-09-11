@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Liam 🐌
 
-<!--
-**liamhade/liamhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5473a107-b8ae-4d9f-8aeb-aa7c29d79e50" alt="40528_the_lord_of_the_rings (1)" />
+</p>
 
-Here are some ideas to get you started:
+Senior @ <b>The University Of Chicago</b> pursuing a <i>B.A. in Computer Science</i>
+<br><br>
+I enjoy:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🎸 - Playing guitar<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🛹 - Skateboarding<br>
+&nbsp;&nbsp;&nbsp;&nbsp;📺 - Watching TV (Currently watching GOT. Please no spoilers)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
