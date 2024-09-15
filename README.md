@@ -6,7 +6,13 @@
 
 Senior @ <b>The University Of Chicago</b> pursuing a <i>B.A. in Computer Science</i>
 <br><br>
-I enjoy:<br>
+
+🛠️ I've worked with:
+<blockquote>
+  <code>Python</code>,<code>C++</code>,<code>C</code>,<code>Javascript</code>,<code>React</code>
+</blockquote>
+<br>
+🌄 I enjoy:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎸 - Playing guitar<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🛹 - Skateboarding<br>
 &nbsp;&nbsp;&nbsp;&nbsp;📺 - Watching TV (Currently watching GOT. Please no spoilers)<br>
