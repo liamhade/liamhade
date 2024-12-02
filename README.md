@@ -9,7 +9,7 @@ Senior @ <b>The University Of Chicago</b> pursuing a <i>B.A. in Computer Science
 
 🛠️ I've worked with:
 <blockquote>
-  <code>Python</code>,<code>C++</code>,<code>C</code>,<code>Javascript</code>,<code>React</code>
+  <code>Python</code>,<code>C++</code>,<code>C</code>,<code>Javascript</code>,<code>React</code>, <code>Heroku</code>, <code>SML</code>
 </blockquote>
 <br>
 🌄 I enjoy:<br>
