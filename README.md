@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/5473a107-b8ae-4d9f-8aeb-aa7c29d79e50" alt="40528_the_lord_of_the_rings (1)" />
 </p>
 
-Senior @ <b>The University Of Chicago</b> pursuing a <i>B.A. in Computer Science</i>
+ <i>Computer Science</i> graduate @ <b>The University Of Chicago</b> 
 <br><br>
 
 🛠️ I've worked with:
